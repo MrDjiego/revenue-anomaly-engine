@@ -1,0 +1,16 @@
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datos (No subir a GitHub por buenas prácticas)
+*.csv
+
+# Modelos exportados 
+# (Nota: Si QUIERES que los reclutadores puedan descargar tus .pkl para probar la API 
+# sin tener que entrenar el modelo, borra o comenta la siguiente línea con un #)
+*.pkl
+
+# Archivos de entorno y editores
+.vscode/
+.env

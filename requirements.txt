@@ -1,0 +1,9 @@
+```text
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+fastapi
+uvicorn
+pydantic
